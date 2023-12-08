@@ -12,3 +12,21 @@ Ce projet utilise les technologies de reconnaissance vocale, de conversion de la
   - SciPy
   - PyTorch
   - Tkinter
+
+### Démarrage de la machine virtuelle depuis Visual Studio Code
+
+ **Configuration de l'environnement virtuel (venv) :**
+   - Ouvrez un terminal dans VS Code.
+   - Créez un environnement virtuel (venv) en exécutant la commande suivante :
+     ```bash
+     python -m venv venv
+     ```
+   - Activez l'environnement virtuel :
+     - Sur Windows :
+       ```bash
+       .\venv\Scripts\activate
+       ```
+     - Sur macOS/Linux :
+       ```bash
+       source venv/bin/activate
+       ```
