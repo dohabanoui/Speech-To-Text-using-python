@@ -12,7 +12,7 @@ Ce projet utilise les technologies de reconnaissance vocale, de conversion de la
   - SciPy
   - PyTorch
   - Tkinter
-
+  - 
 ### Démarrage de la machine virtuelle depuis Visual Studio Code
 
  **Configuration de l'environnement virtuel (venv) :**
